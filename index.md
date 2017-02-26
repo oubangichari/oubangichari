@@ -24,7 +24,7 @@
 			<h1>Oubangi Chari</h1>
 			<p>Maison de vacances à Royan</p>
 			<ul class="icons">
-        <a href="mailto:benjamin.guedj@inria.fr" class="icon fa-envelope alt"><span class="label">Email</span></a>
+        <a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt"><span class="label">Email</span></a>
      </ul>
 </header>
 
