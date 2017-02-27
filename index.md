@@ -1,5 +1,5 @@
 <html>
-<img src="accueil.jpg" alt="" style="width: 10%; height: 10%">
+
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<title>Oubangi Chari - maison à Royan</title>
@@ -18,7 +18,7 @@
 
 		<!-- Header -->
 		<header id="header" class="alt">
-			<span class="logo"><img src="accueil.jpg" alt=""></span>
+			<span class="logo"><img src="accueil.jpg" alt="" style="width: 10%; height: 10%"></span>
 			<h1>Oubangi Chari</h1>
 			<p>Maison de vacances à Royan</p>
 			<ul class="icons">
