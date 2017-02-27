@@ -20,9 +20,7 @@
 	<img src="accueil.jpg" alt="" style="width: 10%; height: 10%">
 	<h1>Oubangi Chari</h1>
 	<p>Maison de vacances à Royan</p>
-	<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
-		<span class="label">Email</span>
-	</a>
+
 </header>
 
 <!-- Nav -->
@@ -45,7 +43,9 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=oubangichari%40gmail.com&showTz=0&showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=300&amp;wkst=7&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FParis" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
 
 <h2  id="contact">Réserver</h2>
-
+<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
+	<span class="label">Email</span>
+</a>
 
 
 </body>
