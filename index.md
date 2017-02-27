@@ -22,10 +22,12 @@
 			<h1>Oubangi Chari</h1>
 			<p>Maison de vacances à Royan</p>
 			<ul class="icons">
-        <a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt"><span class="label">Email</span></a>
-     </ul>
-</header>
-
+        			<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
+				<span class="label">Email</span>
+				</a>
+     			</ul>	
+		</header>
+	</div>
 <!-- Nav -->
 <nav id="nav" class="">
 	<ul>
@@ -38,6 +40,8 @@
 	</ul>
 </nav>
 
+</body>
+</html>
 
 
 
