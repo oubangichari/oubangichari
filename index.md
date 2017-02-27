@@ -28,15 +28,18 @@
 <!-- Nav -->
 <nav id="nav" class="">
 	<ul>
-		<li><a href="#header" class="">Description</a></li>
-		<li><a href="#intro" class="active">Photos</a></li>
-		<li><a href="#first">Disponibilités</a></li>
-		<li><a href="#second">Réserver</a></li>
-		<li><a href="#cta" class="">Publications</a></li>
-		<li><a href="#footer" class="">Contact</a></li>
+		<li><a href="#description">Description</a></li>
+		<li><a href="#photos">Photos</a></li>
+		<li><a href="#disponibilites">Disponibilités</a></li>
+		<li><a href="#contatc">Contact et réservations</a></li>
 	</ul>
 </nav>
 
+<h2>Description</h2>
+<p>C'est une très belle maison près de la mer et du parc.</p>
+
+<h2>Photos</h2>
+<img src="maison-vue-d-ensemble.jpg" alt="" style="width: 50%; height: 50%">
 </body>
 </html>
 
