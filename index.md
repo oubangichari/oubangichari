@@ -1,5 +1,5 @@
 <html>
-
+<img src="accueil.jpg" alt="">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<title>Oubangi Chari - maison à Royan</title>
