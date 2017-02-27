@@ -13,18 +13,18 @@
 
 <body class="">
 
-	<!-- Wrapper -->
-	<div id="wrapper">
-		<img src="accueil.jpg" alt="" style="width: 10%; height: 10%">
-		<!-- Header -->
-		<header id="header" class="alt">
-			<h1>Oubangi Chari</h1>
-			<p>Maison de vacances à Royan</p>
-			<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
-				<span class="label">Email</span>
-			</a>
-		</header>
-	</div>
+
+
+<!-- Header -->
+<header id="header" class="alt">
+	<img src="accueil.jpg" alt="" style="width: 10%; height: 10%">
+	<h1>Oubangi Chari</h1>
+	<p>Maison de vacances à Royan</p>
+	<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
+		<span class="label">Email</span>
+	</a>
+</header>
+
 <!-- Nav -->
 <nav id="nav" class="">
 	<ul>
