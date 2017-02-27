@@ -15,17 +15,14 @@
 
 	<!-- Wrapper -->
 	<div id="wrapper">
-
+		<img src="accueil.jpg" alt="" style="width: 10%; height: 10%">
 		<!-- Header -->
 		<header id="header" class="alt">
-			<span class="logo"><img src="accueil.jpg" alt="" style="width: 10%; height: 10%"></span>
 			<h1>Oubangi Chari</h1>
 			<p>Maison de vacances à Royan</p>
-			<ul class="icons">
-        			<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
+			<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
 				<span class="label">Email</span>
-				</a>
-     			</ul>	
+			</a>
 		</header>
 	</div>
 <!-- Nav -->
