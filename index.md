@@ -1,13 +1,13 @@
 <html>
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<title>Oubangi Chari - maison à Royan</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="Oubangichari">
 	<meta name="description" content="Page de présentation d'Oubangichari, maison de vacances à Royan">
-	<meta name="keywords" content="Oubangichari, location, royan">
+	<meta name="keywords" content="Oubangichari, location, Royan">
 	<link rel="stylesheet" href="oubangichari.css">
 </head>
 
@@ -16,7 +16,7 @@
 
 
 <!-- Header -->
-<header id="header" class="alt">
+<header id="header">
 	<img src="accueil.jpg" alt="" style="width: 10%; height: 10%">
 	<h1>Oubangi Chari</h1>
 	<p>Maison de vacances à Royan</p>
@@ -30,16 +30,23 @@
 	<ul>
 		<li><a href="#description">Description</a></li>
 		<li><a href="#photos">Photos</a></li>
-		<li><a href="#disponibilites">Disponibilités</a></li>
-		<li><a href="#contatc">Contact et réservations</a></li>
+		<li><a href="#agenda">Disponibilités</a></li>
+		<li><a href="#contact">Réserver</a></li>
 	</ul>
 </nav>
 
-<h2>Description</h2>
+<h2 id="description">Description</h2>
 <p>C'est une très belle maison près de la mer et du parc.</p>
 
-<h2>Photos</h2>
+<h2 id="photos">Photos</h2>
 <img src="maison-vue-d-ensemble.jpg" alt="" style="width: 50%; height: 50%">
+
+<h2 id="agenda">Disponibilités</h2>
+
+<h2  id="contact">Contact et réservations</h2>
+
+
+
 </body>
 </html>
 
