@@ -1,4 +1,15 @@
 #header {
-   margin-left: auto;
-    margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
+
+ul { 
+	overflow-x:hidden;
+	white-space:nowrap; 
+	height: 1em;
+	width: 100%;
+} 
+
+li { 
+	display:inline; 
+}    
