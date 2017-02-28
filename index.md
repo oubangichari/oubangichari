@@ -15,7 +15,7 @@
 
 
 
-<div id="contenu">
+<div>
 <header >
 	<img class="center" src="accueil.jpg" alt="" style="width: 10%; height: 10%">
 	<h1>Oubangi Chari</h1>
