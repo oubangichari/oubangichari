@@ -13,9 +13,6 @@
 
 <body>
 
-
-
-<div>
 <header >
 	<img class="center" src="accueil.jpg" alt="" style="width: 10%; height: 10%">
 	<h1>Oubangi Chari</h1>
@@ -31,8 +28,6 @@
 		<li><a href="#contact">Réserver</a></li>
 	</ul>
 </nav>
-
-</div>
 
 <div id="contenu">
 		
