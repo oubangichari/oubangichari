@@ -15,7 +15,7 @@
 
 
 
-
+<div id="contenu">
 <header >
 	<img class="center" src="accueil.jpg" alt="" style="width: 10%; height: 10%">
 	<h1>Oubangi Chari</h1>
@@ -32,7 +32,7 @@
 	</ul>
 </nav>
 
-<br>
+</div>
 
 <div id="contenu">
 		
