@@ -96,10 +96,10 @@
 
 		<div class="section">
 			<h2  id="localisation">Localisation</h2>
-			<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2790.646981174878!2d-1.0097244106184464!3d45.61773773518419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48017673794cf55f%3A0x50df63eaef416d6b!2sAll%C3%A9e+des+Marronniers%2C+17200+Royan!5e0!3m2!1sfr!2sfr!4v1488452295728" width="100%" height="360" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2790.646981174878!2d-1.0097244106184464!3d45.61773773518419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48017673794cf55f%3A0x50df63eaef416d6b!2sAll%C3%A9e+des+Marronniers%2C+17200+Royan!5e0!3m2!1sfr!2sfr!4v1488452295728" width="100%" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 			<h2 id="agenda">Disponibilités</h2>
-			<!-- <iframe src="https://calendar.google.com/calendar/embed?src=oubangichari%40gmail.com&showTz=0&showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=300&amp;wkst=7&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FParis" style="border-width:0" width="100%" height="360" frameborder="0" scrolling="no"></iframe> -->
+			<iframe src="https://calendar.google.com/calendar/embed?src=oubangichari%40gmail.com&showTz=0&showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=300&amp;wkst=7&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FParis" style="border-width:0" width="100%" height="360" frameborder="0" scrolling="no"></iframe>
 		</div>
 	</div>
 
