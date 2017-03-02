@@ -32,6 +32,12 @@
 	<img class="center" src="img/accueil.jpg" alt="" style="width: 10%; height: 10%">
 	<h1>Oubangi Chari</h1>
 	<p>Maison de vacances à Royan</p>
+	<a href="#contact"  >
+		<button id="contactHome"> 
+			<img border="0" alt="" src="img/email_icon.png" width="50" height="50">&nbsp; Contact &nbsp;
+			<img border="0" alt="" src="img/phone_icon.png" width="50" height="50">
+		</button>
+	</a>
 </header>
 
 
@@ -96,7 +102,7 @@
 	</div>
 
 	<div class="reserver">
-		<h2>Réserver</h2>
+		<h2 id="contact">Contact et réservation</h2>
 		<a href="mailto:oubangichari@gmail.com" >
 			<button class="contactFrame left" href="mailto:oubangichari@gmail.com">
 				<img border="0" alt="" src="img/email_icon.png" width="50" height="50"> 
