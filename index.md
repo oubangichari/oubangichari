@@ -87,46 +87,46 @@
 			 	<!-- Wrapper for slides -->
 			 	<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="img/012.jpg" alt="Vue d'ensemble">
+						<img src="img/012.jpg" alt="">
 						<div class="carousel-caption">
 							<h3>Extérieur 1</h3>
 							<p>Jardin clos d'environ 200 M2 avec ombre et soleil, barbecue, terrasse, salon de jardin, transats, et accès pour voiture. </p>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/011.jpg" alt="Jardin">
+						<img src="img/011.jpg" alt="">
 						<div class="carousel-caption">
 							<h3>Extérieur 2</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/007.jpg" alt="Jardin">
+						<img src="img/007.jpg" alt="">
 						<div class="carousel-caption">
 							<h3>RDC : Salon / salle à manger</h3>
 							<p> Avec télévision et canapé fixe</p>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/002.jpg" alt="Jardin">
+						<img src="img/002.jpg" alt="">
 						<div class="carousel-caption">
 							<h3>RDC : Cuisine ouverte</h3>
 							<p>Plaque gaz, four , micro-ondes, lave-linge, lave-vaisselle, réfrigérateur avec congélateur</p>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/003.jpg" alt="Jardin">
+						<img src="img/003.jpg" alt="">
 						<div class="carousel-caption">
 							<h3>Étage : chambre avec deux lits</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/025.jpg" alt="Jardin">
+						<img src="img/025.jpg" alt="">
 						<div class="carousel-caption">
 							<h3>Étage : deuxième chambre</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/021.jpg" alt="Jardin">
+						<img src="img/021.jpg" alt="">
 						<div class="carousel-caption">
 							<h3>Étage : salle de bains</h3>
 						</div>
