@@ -9,7 +9,10 @@ body {
 
 header{
 	text-align: center;
-	padding-bottom: 3em;
+	padding-bottom: 1em;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 #contactHome{
@@ -49,6 +52,10 @@ header{
     margin-right: auto;
 }
 
+.carousel-caption{
+	color:#D9853B;
+}
+
 .carousel-control{
 	display: flex; /* contexte sur le parent */
 }
@@ -79,7 +86,7 @@ header{
 	border-radius: 30px;
 	display: block;
 	width: 25em;
-	height: 10em;
+	height: 9em;
 	padding-top: 1em;
 	margin-right: 3em;
 	text-decoration: none;
@@ -99,17 +106,13 @@ header{
 	float: left; 
 } 
 
+#contact{
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
 
 #contactHome:hover, .contactFrame:hover { 
 	background-color: #558C89;
 	color: #ECECEA;
 } 
 
-#showPhoneNumber:hover::after {
-	content:'06.66.66.66.66'; 
-}
- 
-#showEmailAdress:hover::after {
-	text-decoration: none;
-	content:'oubangichari@gmail.com'; 
-}
