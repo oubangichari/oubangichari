@@ -53,7 +53,7 @@ header{
 	display: flex; /* contexte sur le parent */
 }
 .iconeCentree {
-margin: auto;
+	margin: auto;
 }
 
 .section {
@@ -65,10 +65,12 @@ margin: auto;
 }
 
 .reserver{
-	width: 53em;
+	width: 60em;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 10em;
     text-align: center;
+    display: block;
 }
 
 
@@ -77,15 +79,26 @@ margin: auto;
 	border-radius: 30px;
 	display: block;
 	width: 25em;
-	height: 8em;
+	height: 10em;
+	padding-top: 1em;
 	margin-right: 3em;
 	text-decoration: none;
 	color: #D9853B;
 }
 
-.left{
-	float: left;
-}
+.reserver ul { 
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	text-align: center;
+} 
+
+
+.reserver li { 
+	float: left; 
+} 
+
 
 #contactHome:hover, .contactFrame:hover { 
 	background-color: #558C89;
@@ -96,3 +109,7 @@ margin: auto;
 	content:'06.66.66.66.66'; 
 }
  
+#showEmailAdress:hover::after {
+	text-decoration: none;
+	content:'oubangichari@gmail.com'; 
+}
