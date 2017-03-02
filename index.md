@@ -8,45 +8,109 @@
 	<meta name="author" content="Oubangichari">
 	<meta name="description" content="Page de présentation d'Oubangichari, maison de vacances à Royan">
 	<meta name="keywords" content="Oubangichari, location, Royan">
-	<link rel="stylesheet" href="oubangichari.css">
+	<link rel="stylesheet" href="css/bootstrap-3.3.7.min.css">
+	<link rel="stylesheet" href="css/oubangichari.css">
+	<script src="js/jquery-3.1.1.min.js"></script>
+	<script src="js/bootstrap-3.3.7.min.js"></script>
+	<!-- <script src="oubangichari.js" type="text/javascript"></script> -->
+
 </head>
+
 
 <body>
 
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#myCarousel').carousel({
+		    interval: false
+		}); 
+	});
+</script>
+
+
 <header >
-	<img class="center" src="accueil.jpg" alt="" style="width: 10%; height: 10%">
+	<img class="center" src="img/accueil.jpg" alt="" style="width: 10%; height: 10%">
 	<h1>Oubangi Chari</h1>
 	<p>Maison de vacances à Royan</p>
-	<p>Au calme et proche de la plage</p>
 </header>
 
-<nav>
-	<ul >
-		<li><a href="#description">Description</a></li>
-		<li><a href="#photos">Photos</a></li>
-		<li><a href="#agenda">Disponibilités</a></li>
-		<li><a href="#contact">Réserver</a></li>
-	</ul>
-</nav>
 
-<div id="contenu">
-		
-	<h2 id="description">Description</h2>
-	Au calme, mais proche de la plage et des commerces (marché du parc), Oubangi Chari est une petite maison de deux chambres, agrémentée d'une veranda, d'un jardin et d'une terrasse ombragée.
+<div class="contenu">
 
-	<h2 id="photos">Photos</h2>
-	<img src="maison-vue-d-ensemble.jpg" alt="" style="width: 50%; height: 50%">
+	<div id="columnsWrapper">
+		<h2 id="description">Description</h2>
+		Au calme, mais proche de la plage et des commerces (marché du parc), Oubangi Chari est une petite maison de deux chambres, agrémentée d'une veranda, d'un jardin et d'une terrasse ombragée.
 
-	<h2 id="agenda">Disponibilités</h2>
-	<iframe src="https://calendar.google.com/calendar/embed?src=oubangichari%40gmail.com&showTz=0&showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=300&amp;wkst=7&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FParis" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
+		      
+		<h2 id="photos">Photos</h2>
+		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="1"></li>
+			</ol>
 
-	<h2  id="contact">Réserver</h2>
-	<a href="mailto:oubangichari@gmail.com" class="icon fa-envelope alt">
-		<span class="label">Email</span>
-	</a>
+		 	<!-- Wrapper for slides -->
+		 	<div class="carousel-inner" role="listbox">
+				<div class="item active">
+					<img src="img/maison-vue-d-ensemble.jpg" alt="Vue d'ensemble">
+					<div class="carousel-caption">
+						<h3>Vue d'ensemble</h3>
+						<p>Une petite maison confortable</p>
+					</div>
+				</div>
+				<div class="item">
+					<img src="img/jardin.jpg" alt="Jardin">
+					<div class="carousel-caption">
+						<h3>Jardin</h3>
+						<p>Se rafraîchir à l'ombre, ou profiter du soleil, c'est comme on veut !</p>
+					</div>
+				</div>
+			</div>
 
+			  <!-- Left and right controls -->
+			<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+				<span class="iconeCentree" aria-hidden="true">
+					 <img src="img/glyphicons-225-chevron-left.png" alt="">
+				</span>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+				<span class="iconeCentree" aria-hidden="true">
+					<img src="img/glyphicons-224-chevron-right.png" alt="">
+				</span>
+
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+
+
+
+		<div class="section">
+			<h2  id="localisation">Localisation</h2>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2790.646981174878!2d-1.0097244106184464!3d45.61773773518419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48017673794cf55f%3A0x50df63eaef416d6b!2sAll%C3%A9e+des+Marronniers%2C+17200+Royan!5e0!3m2!1sfr!2sfr!4v1488452295728" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+			<h2 id="agenda">Disponibilités</h2>
+			<iframe src="https://calendar.google.com/calendar/embed?src=oubangichari%40gmail.com&showTz=0&showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=300&amp;wkst=7&amp;bgcolor=%23FFFFFF&amp;ctz=Europe%2FParis" style="border-width:0" width="480" height="360" frameborder="0" scrolling="no"></iframe>
+		</div>
+	</div>
+
+	<div class="reserver">
+		<h2>Réserver</h2>
+		<a href="mailto:oubangichari@gmail.com" >
+			<button class="contactFrame left" href="mailto:oubangichari@gmail.com">
+				<img border="0" alt="" src="img/email_icon.png" width="50" height="50"> 
+				Envoyer un mail
+			</button>
+		</a>
+		<button id="showPhoneNumber" class="contactFrame">
+			<img border="0" alt="" src="img/phone_icon.png" width="50" height="50">
+			<i> Passer le curseur pour voir </i>
+			<br>
+			Numéro de téléphone :
+		</button>
+	</div>
 </div>
-
 
 
 </body>
