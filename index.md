@@ -50,7 +50,7 @@
 		<div class="section">
 			<h2 id="description">Description</h2>
 			<p>Maison indépendante dans le quartier résidentiel du parc de Royan.</p>
-			<p>Commerce et marché à 200 M, grande plage à 500 M.</p>
+			<p>Commerces et marché à 200 M, grande plage à 500 M.</p>
 			<p>Maison de 70 M2 pour 4 à 5 personnes comprenant :</p>
 			<p>
 				<ul> 
@@ -122,7 +122,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/003.jpg" alt="Jardin">
+						<img src="img/025.jpg" alt="Jardin">
 						<div class="carousel-caption">
 							<h3>Étage : deuxième chambre</h3>
 						</div>
