@@ -13,8 +13,6 @@
 	<link rel="stylesheet" href="css/oubangichari.css">
 	<script src="js/jquery-3.1.1.min.js"></script>
 	<script src="js/bootstrap-3.3.7.min.js"></script>
-	<!-- <script src="oubangichari.js" type="text/javascript"></script> -->
-
 </head>
 
 
