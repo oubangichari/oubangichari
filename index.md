@@ -39,6 +39,8 @@
 			<img border="0" alt="" src="img/phone_icon.png" width="50" height="50">
 		</button>
 	</a>
+
+	<p> <br>Au calme, mais proche de la plage et des commerces (marché du parc), Oubangi Chari est une petite maison de deux chambres, agrémentée d'une veranda, d'un jardin et d'une terrasse ombragée.</p>
 </header>
 
 
@@ -47,7 +49,28 @@
 	<div id="columnsWrapper">
 		<div class="section">
 			<h2 id="description">Description</h2>
-			Au calme, mais proche de la plage et des commerces (marché du parc), Oubangi Chari est une petite maison de deux chambres, agrémentée d'une veranda, d'un jardin et d'une terrasse ombragée.
+			<p>Maison indépendante dans le quartier résidentiel du parc de Royan.</p>
+			<p>Commerce et marché à 200 M, grande plage à 500 M.</p>
+			<p>Maison de 70 M2 pour 4 à 5 personnes comprenant :</p>
+			<p>
+				<ul> 
+					<li>Rdc :  
+						<ul> 
+							<li> cuisine ouverte (plaque gaz, four , micro-ondes, lave linge,  lave vaisselle, réfrigérateur avec congélateur … )</li> 
+							<li> Salon / salle à manger (télévision, canapé fixe ) </li> 
+							<li> Entrée, wc indépendant, véranda couverte </li> 
+						</ul>   
+					<li> Étage :
+						<ul> 
+							<li> 1 chambre ( lit 140, penderie )</li> 
+							<li> 1 chambre (lit 140 + lit 80 , commode )</li> 
+							<li> Salle d'eau ( lavabo, douche, wc )</li> 
+						</ul>
+				</ul>
+			</p>
+			<p>Jardin clos d'environ 200 M2 avec ombre et soleil, barbecue, terrasse,
+			 salon de jardin, transats, accès pour voiture. </p>
+			<p>Ensemble calme et reposant.</p>           
 
 			      
 			<h2 id="photos">Photos</h2>
@@ -56,22 +79,58 @@
 				<ol class="carousel-indicators">
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
+					<li data-target="#myCarousel" data-slide-to="4"></li>
+					<li data-target="#myCarousel" data-slide-to="5"></li>
+					<li data-target="#myCarousel" data-slide-to="6"></li>					
 				</ol>
 
 			 	<!-- Wrapper for slides -->
 			 	<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="img/maison-vue-d-ensemble.jpg" alt="Vue d'ensemble">
+						<img src="img/012.jpg" alt="Vue d'ensemble">
 						<div class="carousel-caption">
-							<h3>Vue d'ensemble</h3>
-							<p>Une petite maison confortable</p>
+							<h3>Extérieur 1</h3>
+							<p>Jardin clos d'environ 200 M2 avec ombre et soleil, barbecue, terrasse, salon de jardin, transats, et accès pour voiture. </p>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/jardin.jpg" alt="Jardin">
+						<img src="img/011.jpg" alt="Jardin">
 						<div class="carousel-caption">
-							<h3>Jardin</h3>
-							<p>Se rafraîchir à l'ombre, ou profiter du soleil, c'est comme on veut !</p>
+							<h3>Extérieur 2</h3>
+						</div>
+					</div>
+					<div class="item">
+						<img src="img/007.jpg" alt="Jardin">
+						<div class="carousel-caption">
+							<h3>RDC : Salon / salle à manger</h3>
+							<p> Avec télévision et canapé fixe</p>
+						</div>
+					</div>
+					<div class="item">
+						<img src="img/002.jpg" alt="Jardin">
+						<div class="carousel-caption">
+							<h3>RDC : Cuisine ouverte</h3>
+							<p>Plaque gaz, four , micro-ondes, lave-linge, lave-vaisselle, réfrigérateur avec congélateur</p>
+						</div>
+					</div>
+					<div class="item">
+						<img src="img/003.jpg" alt="Jardin">
+						<div class="carousel-caption">
+							<h3>Étage : chambre avec deux lits</h3>
+						</div>
+					</div>
+					<div class="item">
+						<img src="img/003.jpg" alt="Jardin">
+						<div class="carousel-caption">
+							<h3>Étage : deuxième chambre</h3>
+						</div>
+					</div>
+					<div class="item">
+						<img src="img/021.jpg" alt="Jardin">
+						<div class="carousel-caption">
+							<h3>Étage : salle de bains</h3>
 						</div>
 					</div>
 				</div>
@@ -110,9 +169,9 @@
 				<a href="mailto:oubangichari@gmail.com" class="contactFrame" id="showEmailAdress"> 
 					<img border="0" alt="Contacter par mail" src="img/email_icon.png" width="50" height="50">
 					<br>
-					<i>  Cliquer pour envoyer un mail ou
+					<i>  Cliquer pour envoyer un mail à </i>
 					<br>
-					passer le curseur pour voir l'adresse</i>
+					oubangichari@gmail.com
 				</a>
 				
 			</li>
@@ -120,10 +179,9 @@
 				<div id="showPhoneNumber" class="contactFrame">
 					<img border="0" alt="Voir le numéro de téléphone" src="img/phone_icon.png" width="50" height="50" class="iconeCentree">
 					<br>
-					<i> Passer le curseur pour voir </i>
-					<br>
 					Numéro de téléphone :
 					<br>
+					06 71 50 56 51
 				</div>
 			</li>
 		</ul>
