@@ -9,7 +9,18 @@ body {
 
 header{
 	text-align: center;
+	padding-bottom: 3em;
 }
+
+#contactHome{
+	border: 2px solid #D9853B;
+	border-radius: 30px;
+	width: 16em;
+	height: 6em;
+	text-decoration: none;
+	color: #D9853B;
+}
+
 
 .contenu {
 	background: #ECECEA;
@@ -63,7 +74,7 @@ margin: auto;
 
 .contactFrame { 
 	border: 2px solid #D9853B;
-	border-radius: 5px;
+	border-radius: 30px;
 	display: block;
 	width: 25em;
 	height: 8em;
@@ -76,7 +87,7 @@ margin: auto;
 	float: left;
 }
 
-.contactFrame:hover { 
+#contactHome:hover, .contactFrame:hover { 
 	background-color: #558C89;
 	color: #ECECEA;
 } 
