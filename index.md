@@ -2,11 +2,12 @@
 
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<title>Oubangi Chari - maison à Royan</title>
+	<title>Oubangi Chari - Royan</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="Oubangichari">
 	<meta name="description" content="Page de présentation d'Oubangichari, maison de vacances à Royan">
+	<link rel="icon" href="img/sun.png">
 	<meta name="keywords" content="Oubangichari, location, Royan">
 	<link rel="stylesheet" href="css/bootstrap-3.3.7.min.css">
 	<link rel="stylesheet" href="css/oubangichari.css">
