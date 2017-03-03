@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="Oubangichari">
-	<meta name="description" content="Page de présentation d'Oubangichari, maison de vacances à Royan">
+	<meta name="description" content="Page d'Oubangichari, maison de vacances à Royan">
 	<link rel="icon" href="img/sun.png">
 	<meta name="keywords" content="Oubangichari, location, Royan">
 	<link rel="stylesheet" href="css/bootstrap-3.3.7.min.css">
@@ -38,7 +38,7 @@
 		</button>
 	</a>
 
-	<p> <br>Au calme, mais proche de la plage et des commerces, Oubangi Chari est une petite maison de deux chambres, agrémentée d'une veranda, d'un jardin et d'une terrasse ombragée.</p>
+	<p> <br>Au calme, mais proche de la plage et des commerces, Oubangi Chari est une maison de deux chambres, agrémentée d'une veranda, d'un jardin et d'une terrasse ombragée.</p>
 </header>
 
 
