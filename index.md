@@ -45,7 +45,7 @@
 <div class="contenu">
 
 	<div id="columnsWrapper">
-		<div class="section">
+		<div class="section" id="descriptionWrapper">
 			<h2 id="description">Description</h2>
 			<p>Maison indépendante dans le quartier résidentiel du parc de Royan.</p>
 			<p>Commerces et marché à 200 M, grande plage à 500 M.</p>
@@ -85,46 +85,46 @@
 			 	<!-- Wrapper for slides -->
 			 	<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img src="img/012.jpg" alt="">
+						<img src="img/012.JPG" alt="">
 						<div class="carousel-caption">
 							<h3>Extérieur 1</h3>
 							<p>Jardin clos d'environ 200 M2 avec ombre et soleil, barbecue, terrasse, salon de jardin, transats, et accès pour voiture. </p>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/011.jpg" alt="">
+						<img src="img/011.JPG" alt="">
 						<div class="carousel-caption">
 							<h3>Extérieur 2</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/007.jpg" alt="">
+						<img src="img/007.JPG" alt="">
 						<div class="carousel-caption">
 							<h3>RDC : Salon / salle à manger</h3>
 							<p> Avec télévision et canapé fixe</p>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/002.jpg" alt="">
+						<img src="img/002.JPG" alt="">
 						<div class="carousel-caption">
 							<h3>RDC : Cuisine ouverte</h3>
 							<p>Plaque gaz, four , micro-ondes, lave-linge, lave-vaisselle, réfrigérateur avec congélateur</p>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/003.jpg" alt="">
+						<img src="img/003.JPG" alt="">
 						<div class="carousel-caption">
 							<h3>Étage : chambre avec deux lits</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/025.jpg" alt="">
+						<img src="img/025.JPG" alt="">
 						<div class="carousel-caption">
 							<h3>Étage : deuxième chambre</h3>
 						</div>
 					</div>
 					<div class="item">
-						<img src="img/021.jpg" alt="">
+						<img src="img/021.JPG" alt="">
 						<div class="carousel-caption">
 							<h3>Étage : salle de bains</h3>
 						</div>
