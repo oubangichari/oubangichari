@@ -50,7 +50,7 @@
 			<p>Maison indépendante dans le quartier résidentiel du parc de Royan.</p>
 			<p>Commerces et marché à 200 M, grande plage à 500 M.</p>
 			<p>Maison de 70 M2 pour 4 à 5 personnes comprenant :</p>
-		<!-- 	<p>Rdc : </p> 
+			<p>Rdc : </p> 
 						<ul> 
 							<li> cuisine ouverte (plaque gaz, four , micro-ondes, lave linge,  lave vaisselle, réfrigérateur avec congélateur)</li> 
 							<li> Salon / salle à manger (télévision, canapé fixe ) </li> 
@@ -62,7 +62,7 @@
 							<li> 1 chambre ( lit 140, penderie )</li> 
 							<li> 1 chambre (lit 140 + lit 80 , commode )</li> 
 							<li> Salle d'eau ( lavabo, douche, wc )</li> 
-						</ul> -->
+						</ul>
 			
 			<p>Jardin clos d'environ 200 M2 avec ombre et soleil, barbecue, terrasse,
 			 salon de jardin, transats, accès pour voiture. </p>
